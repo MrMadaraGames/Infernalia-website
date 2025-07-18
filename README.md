@@ -16,5 +16,3 @@ Este projeto foi criado para ser a base do website oficial da Infernalia, com as
 - 🔐 Foco em segurança e boas práticas
 - 🎮 Totalmente customizável para servidores de Minecraft
 
-## 📂 Estrutura de Pastas
-
